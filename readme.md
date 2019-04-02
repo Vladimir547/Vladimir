@@ -5,5 +5,6 @@
 - cd domains
 - git clone https://github.com/Vladimir547/Vladimir.git
 ## Ветки 
-Добавлена ветка new
 Master
+new
+
